@@ -785,7 +785,7 @@ Huvudfokus ligger på optimisering och bra Windows 10 funktioner!</value>
     <value>Visa varje meddelande</value>
   </data>
   <data name="ShowOneTotalUnreadCBI.Content" xml:space="preserve">
-    <value>Visa en totalt oläst..?count?</value>
+    <value>Visa antal olästa poster? //Visa en totalt oläst..?count?</value>
   </data>
   <data name="SystemStateCode.Text" xml:space="preserve">
     <value>System Tillstånd</value>
