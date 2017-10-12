@@ -127,10 +127,10 @@
     <value>Spara bild</value>
   </data>
   <data name="EnjoyingRedduntTB" xml:space="preserve">
-    <value>Enjoying Reddunt? We would greatly appreciate it if you took a quick second to leave us a review! Thanks for supporting the project!</value>
+    <value>Tycker du om Reddunt? Vi skulle vara tacksamma om du tog en sekund att skriva en recension! Tack för att du stödjer projektet!</value>
   </data>
   <data name="genericTextHeaderTB.Text" xml:space="preserve">
-    <value>Error loading post</value>
+    <value>Det gick inte att läsa in posten</value>
   </data>
   <data name="genericTextSubTB.Text" xml:space="preserve">
     <value>Tryck för att öppna i Edge</value>
@@ -187,7 +187,7 @@
     <value>Sök på något</value>
   </data>
   <data name="RedduntAccountTB.Text" xml:space="preserve">
-    <value>Unlock even more of Reddunt by adding account. Reddit accounts are anonymous, simple, and free - and Reddunt will keep it that way.</value>
+    <value>Lås upp mer utav Reddunt genom att lägga till ett konto. Reddit konton är anonyma, enkla, och kostnadsfria - Reddunt kommer att fortsätta hålla det på det viset</value>
   </data>
   <data name="SearchASUPTBS.PlaceholderText" xml:space="preserve">
     <value>Sök på något; subreddits, användare, inlägg, etc.</value>
@@ -226,13 +226,13 @@
     <value>Populära Subreddits</value>
   </data>
   <data name="TryItTip.Text" xml:space="preserve">
-    <value>Go ahead! Try it now!</value>
+    <value>Varsågod! Prova det nu!</value>
   </data>
   <data name="ViewCommentTip.Text" xml:space="preserve">
-    <value>To view the comments for this or any post, put your mouse pointer or finger on the title bar and scroll down.</value>
+    <value>För att se kommentarerna för det här eller något inlägg, placera muspekaren eller fingret på titellinjen och rulla nedåt</value>
   </data>
   <data name="WelcomeText.Text" xml:space="preserve">
-    <value>Welcome Quinbd</value>
+    <value>Välkommen Quinbd</value>
   </data>
   <data name="AccountAgeTB.Text" xml:space="preserve">
     <value>0 dagar gammal</value>
@@ -256,7 +256,7 @@
     <value>Nya</value>
   </data>
   <data name="CommentSortFMITop.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>Topp</value>
   </data>
   <data name="CommentSortNew.Text" xml:space="preserve">
     <value>Nya</value>
@@ -271,85 +271,85 @@
     <value>Formaterad Förhandsgranskning</value>
   </data>
   <data name="GildedTB.Text" xml:space="preserve">
-    <value>Gilded</value>
+    <value>Gyllene</value>
   </data>
   <data name="GoToUserTB.Text" xml:space="preserve">
     <value>Gå till användare</value>
   </data>
   <data name="HeaderSubmitPost.Text" xml:space="preserve">
-    <value>SUBMIT POST</value>
+    <value>SKICKA IN POST</value>
   </data>
   <data name="NoPostHereTB.Text" xml:space="preserve">
-    <value>There are no posts here.</value>
+    <value>Det finns inga poster här.</value>
   </data>
   <data name="NoSubmittedComments.Text" xml:space="preserve">
-    <value>No Submitted Comments</value>
+    <value>Inga inskickade kommentarer</value>
   </data>
   <data name="NoSubmittedPostsTB.Text" xml:space="preserve">
-    <value>No Submitted Posts</value>
+    <value>Inga inskickade Poster</value>
   </data>
   <data name="PastDay.Text" xml:space="preserve">
-    <value>Past Day</value>
+    <value>Senaste Dagen</value>
   </data>
   <data name="PastHour.Text" xml:space="preserve">
-    <value>Past Hour</value>
+    <value>Senaste Timmen</value>
   </data>
   <data name="PastMonth.Text" xml:space="preserve">
-    <value>Past Month</value>
+    <value>Senaste Månaden</value>
   </data>
   <data name="PastWeek.Text" xml:space="preserve">
-    <value>Past Week</value>
+    <value>Senaste Veckan</value>
   </data>
   <data name="PastYear.Text" xml:space="preserve">
-    <value>Past Year</value>
+    <value>Senaste Året</value>
   </data>
   <data name="PostSortFMIBest.Text" xml:space="preserve">
-    <value>Best</value>
+    <value>Bästa</value>
   </data>
   <data name="PostSortFMIContnro.Text" xml:space="preserve">
-    <value>Controversial</value>
+    <value>Kontroversiellt</value>
   </data>
   <data name="PostSortFMINew.Text" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="PostSortFMITop.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>Topp</value>
   </data>
   <data name="PostSortTextTB.Text" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="SelfTextTB.Text" xml:space="preserve">
     <value>Self Text</value>
   </data>
   <data name="SettingsTB.Text" xml:space="preserve">
-    <value>SETTINGS</value>
+    <value>INSTÄLLNINGAR</value>
   </data>
   <data name="SMIContro.Text" xml:space="preserve">
-    <value>Controversial</value>
+    <value>Kontroversiellt</value>
   </data>
   <data name="SMIHot.Text" xml:space="preserve">
     <value>Hot</value>
   </data>
   <data name="SMINew.Text" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="SMIRising.Text" xml:space="preserve">
-    <value>Rising</value>
+    <value>Stigande</value>
   </data>
   <data name="SMITop.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>Topp</value>
   </data>
   <data name="SortDTB.Text" xml:space="preserve">
-    <value>Sort:</value>
+    <value>Sortera:</value>
   </data>
   <data name="SortPostTB.Text" xml:space="preserve">
-    <value>Sort:</value>
+    <value>Sortera:</value>
   </data>
   <data name="SortTextHotTB.Text" xml:space="preserve">
-    <value>Hot</value>
+    <value>Heta</value>
   </data>
   <data name="SortTimeTB.Text" xml:space="preserve">
-    <value>Past Week</value>
+    <value>Senaste Veckan</value>
   </data>
   <data name="StickyTB.Text" xml:space="preserve">
     <value>Sticky</value>
@@ -358,55 +358,55 @@
     <value>Sticky</value>
   </data>
   <data name="SubtmitPostTitleTB.Text" xml:space="preserve">
-    <value>Title</value>
+    <value>Titel</value>
   </data>
   <data name="TimeTB.Text" xml:space="preserve">
-    <value>Time:</value>
+    <value>Tid:</value>
   </data>
   <data name="ViewContextTB.Text" xml:space="preserve">
-    <value>view in context</value>
+    <value>visa i sammanhang</value>
   </data>
   <data name="CLinkFMI.Text" xml:space="preserve">
-    <value>Copy link</value>
+    <value>Kopiera länk</value>
   </data>
   <data name="CMBest.Text" xml:space="preserve">
-    <value>Best</value>
+    <value>Bästa</value>
   </data>
   <data name="CMContro.Text" xml:space="preserve">
-    <value>Controversial</value>
+    <value>Kontroversiellt</value>
   </data>
   <data name="CMNew.Text" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="CMOld.Text" xml:space="preserve">
-    <value>Old</value>
+    <value>Gamla</value>
   </data>
   <data name="CMQA.Text" xml:space="preserve">
     <value>Q&amp;A</value>
   </data>
   <data name="CMTop.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>Topp</value>
   </data>
   <data name="collapseTBN.Text" xml:space="preserve">
     <value>collapse</value>
   </data>
   <data name="CopyPerFMI.Text" xml:space="preserve">
-    <value>Copy permalink</value>
+    <value>Kopiera permalänk</value>
   </data>
   <data name="CountTB.Text" xml:space="preserve">
-    <value>Count:</value>
+    <value>antal:</value>
   </data>
   <data name="CPermaFMI.Text" xml:space="preserve">
-    <value>Copy permalink</value>
+    <value>Kopiera permalänk</value>
   </data>
   <data name="DeletePostClick.Text" xml:space="preserve">
-    <value>Delete post</value>
+    <value>Radera post</value>
   </data>
   <data name="EditPostClick.Text" xml:space="preserve">
-    <value>Edit post</value>
+    <value>Redigera post</value>
   </data>
   <data name="MoreTB.Text" xml:space="preserve">
-    <value>more</value>
+    <value>mer</value>
   </data>
   <data name="RunGilded.Text" xml:space="preserve">
     <value>gilded</value>
@@ -415,35 +415,35 @@
     <value>sticky</value>
   </data>
   <data name="ShareCommentFMI.Text" xml:space="preserve">
-    <value>Share comment</value>
+    <value>Dela kommentar</value>
   </data>
   <data name="SharePostFMI.Text" xml:space="preserve">
-    <value>Share post</value>
+    <value>Dela post</value>
   </data>
   <data name="TapViewEntire.Text" xml:space="preserve">
-    <value>Tap here to view the entire thread</value>
+    <value>Klicka här för att se hela tråden</value>
   </data>
   <data name="AboutDescription.Text" xml:space="preserve">
-    <value>Reddunt is a gorgeous Reddit® client based on Baconit, an open source app. It's available on all Windows 10 devices. 
-The main focus is on optimization as well great Windows 10 focused features!</value>
+    <value>Reddunt är en snygg Reddit® klient baserad på Baconit, en open source app. Den finns tillgänglig på alla Windows 10 enheter. 
+Huvudfokus ligger på optimisering och bra Windows 10 funktioner!</value>
   </data>
   <data name="AddMessagesTB.Text" xml:space="preserve">
     <value>Add messages to the notification center silently</value>
   </data>
   <data name="AlwaysCombo.Content" xml:space="preserve">
-    <value>Always</value>
+    <value>Alltid</value>
   </data>
   <data name="AuthorFilter.PlaceholderText" xml:space="preserve">
     <value>Author Filter</value>
   </data>
   <data name="AutoTB.Text" xml:space="preserve">
-    <value>Auto minimize story header in comments</value>
+    <value>Automatisk minimera historikhuvudet i kommentarer</value>
   </data>
   <data name="AutoUpdateTB.Text" xml:space="preserve">
-    <value>Automatically update lock screen image</value>
+    <value>Automatiskt uppdatera låsskärmsbilden</value>
   </data>
   <data name="AutoUpdateWTB.Text" xml:space="preserve">
-    <value>Automatically update wallpaper image</value>
+    <value>Automatiskt uppdatera bakgrundsbild</value>
   </data>
   <data name="BackgroundInboxCTB.Text" xml:space="preserve">
     <value>Background inbox updating</value>
@@ -455,241 +455,241 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>All Time</value>
   </data>
   <data name="CancelCT.Content" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Avbryt</value>
   </data>
   <data name="CBestCB.Content" xml:space="preserve">
-    <value>Best</value>
+    <value>Bäst</value>
   </data>
   <data name="CBIalltime.Content" xml:space="preserve">
     <value>all time</value>
   </data>
   <data name="CBIcontro.Content" xml:space="preserve">
-    <value>controversial</value>
+    <value>kontroversiellt</value>
   </data>
   <data name="CBIhot.Content" xml:space="preserve">
-    <value>hot</value>
+    <value>hett</value>
   </data>
   <data name="CBInew.Content" xml:space="preserve">
-    <value>new</value>
+    <value>nya</value>
   </data>
   <data name="CBIpday.Content" xml:space="preserve">
-    <value>past day</value>
+    <value>senaste dagen</value>
   </data>
   <data name="CBIphour.Content" xml:space="preserve">
-    <value>past hour</value>
+    <value>senaste timmen</value>
   </data>
   <data name="CBIpmonth.Content" xml:space="preserve">
-    <value>past month</value>
+    <value>senaste månaden</value>
   </data>
   <data name="CBIpweek.Content" xml:space="preserve">
-    <value>past week</value>
+    <value>senaste veckan</value>
   </data>
   <data name="CBIpyear.Content" xml:space="preserve">
-    <value>past year</value>
+    <value>senaste året</value>
   </data>
   <data name="CBIrising.Content" xml:space="preserve">
-    <value>rising</value>
+    <value>stigande</value>
   </data>
   <data name="CBItop.Content" xml:space="preserve">
-    <value>top</value>
+    <value>Topp</value>
   </data>
   <data name="CCommentsCBB.Content" xml:space="preserve">
-    <value>Comments</value>
+    <value>Kommentarer</value>
   </data>
   <data name="CControCB.Content" xml:space="preserve">
-    <value>Controversial</value>
+    <value>Kontroversiellt</value>
   </data>
   <data name="CheckUnder.Text" xml:space="preserve">
-    <value>Check out the source code</value>
+    <value>Ta en titt på källkoden</value>
   </data>
   <data name="CNewCB.Content" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="COldCB.Content" xml:space="preserve">
-    <value>Old</value>
+    <value>Gamla</value>
   </data>
   <data name="CPastDayB.Content" xml:space="preserve">
-    <value>Past Day</value>
+    <value>Senaste Day</value>
   </data>
   <data name="CPastHourB.Content" xml:space="preserve">
-    <value>Past Hour</value>
+    <value>Senaste Timmen</value>
   </data>
   <data name="CPastMonthB.Content" xml:space="preserve">
-    <value>Past Month</value>
+    <value>Senaste Månaden</value>
   </data>
   <data name="CPastWeekB.Content" xml:space="preserve">
-    <value>Past Week</value>
+    <value>Senaste Veckan</value>
   </data>
   <data name="CPastYearB.Content" xml:space="preserve">
-    <value>Past Year</value>
+    <value>Senaste Året</value>
   </data>
   <data name="CQACB.Content" xml:space="preserve">
     <value>Q&amp;A</value>
   </data>
   <data name="CreateAccountCT.Content" xml:space="preserve">
-    <value>Create Account</value>
+    <value>Skapa Konto</value>
   </data>
   <data name="CSettings.Text" xml:space="preserve">
-    <value>Comment settings</value>
+    <value>Kommentar inställningar</value>
   </data>
   <data name="CTopCB.Content" xml:space="preserve">
-    <value>Top</value>
+    <value>Topp</value>
   </data>
   <data name="DevSettings.Text" xml:space="preserve">
-    <value>Developer settings</value>
+    <value>Utvecklarinställningar</value>
   </data>
   <data name="DisableCombo.Content" xml:space="preserve">
     <value>Disable per subreddit; resets when the app is close</value>
   </data>
   <data name="DisablePostLoad.Text" xml:space="preserve">
-    <value>Don't load post content until tapped</value>
+    <value>Ladda inte postinnehåll förrens du tryckt</value>
   </data>
   <data name="EverythingCB.Content" xml:space="preserve">
-    <value>Everything</value>
+    <value>Allting</value>
   </data>
   <data name="FatalException.Text" xml:space="preserve">
-    <value>Don't let fatal exceptions kill the app, report the exception instead of crashing. (this will leave your app in an unstable state)</value>
+    <value>Låt inte kritiska fel stänga ned appen, rapportera felet istället för att crasha appen. (Detta lämnar applikationen i ett ostabilt läge)</value>
   </data>
   <data name="FlipViewS.Text" xml:space="preserve">
     <value>FLIP VIEW SETTINGS</value>
   </data>
   <data name="fullpost.Text" xml:space="preserve">
-    <value>Show full post titles</value>
+    <value>Visa hela post titlar</value>
   </data>
   <data name="HeaderAboutTB.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Om</value>
   </data>
   <data name="HowMessagesTB.Text" xml:space="preserve">
-    <value>How messages appear in the notification center</value>
+    <value>Hur meddelanden visas i notifikations centrat</value>
   </data>
   <data name="ImageUpdateFTB.Text" xml:space="preserve">
-    <value>Image update frequency</value>
+    <value>Bild uppdateringsfrekvens</value>
   </data>
   <data name="IsNNSFW.Content" xml:space="preserve">
-    <value>No</value>
+    <value>Nej</value>
   </data>
   <data name="IsNSFW.Content" xml:space="preserve">
-    <value>Is NSFW?</value>
+    <value>Är NSFW?</value>
   </data>
   <data name="IsYNSFW.Content" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
   </data>
   <data name="LastUpdate.Text" xml:space="preserve">
-    <value>Last Update:</value>
+    <value>Senast Uppdaterad:</value>
   </data>
   <data name="LoadingC.Text" xml:space="preserve">
-    <value>Loading comments</value>
+    <value>Laddar kommentarer</value>
   </data>
   <data name="LockScreenTB.Text" xml:space="preserve">
-    <value>Lock screen image source</value>
+    <value>Låsskärm bildkälla</value>
   </data>
   <data name="LoginCT.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Logga In</value>
   </data>
   <data name="MemoryPressure.Text" xml:space="preserve">
-    <value>Pages cleaned up for memory pressure: 0</value>
+    <value>Sidor har rensats upp för att rensa upp minne: 0</value>
   </data>
   <data name="MemOverlay.Text" xml:space="preserve">
-    <value>Show app memory overlay</value>
+    <value>Visa appminnes statistik</value>
   </data>
   <data name="MSBand1.Text" xml:space="preserve">
-    <value>Reddunt can integrate with your Microsoft Band v1 or v2 to update your wallpaper, add a Reddunt tile, or give you instant notifications for new inbox messages.</value>
+    <value>Reddunt kan integreras med ditt Microsoft Band v1 eller v2 för att uppdatera din bakgrundsbild, lägga till en Reddunt-tile eller ge dig notifikationer för nya meddelanden.</value>
   </data>
   <data name="MSBand2.Text" xml:space="preserve">
-    <value>No Band found, make sure your band is powered on and connected.</value>
+    <value>Inga Band hittade, se till att ditt band är påslagen och anslutet.</value>
   </data>
   <data name="MSBand3.Text" xml:space="preserve">
-    <value>Wallpaper</value>
+    <value>Bakgrundsbild</value>
   </data>
   <data name="MSBand4.Text" xml:space="preserve">
-    <value>Automatically update Band wallpaper</value>
+    <value>Automatiskt uppdatera Band bakgrundsbild</value>
   </data>
   <data name="MSBand5.Text" xml:space="preserve">
-    <value>Band wallpaper image source</value>
+    <value>Band bakgrund bildkälla</value>
   </data>
   <data name="MSBand6.Text" xml:space="preserve">
     <value>Tile &amp; Inbox</value>
   </data>
   <data name="MSBand7.Text" xml:space="preserve">
-    <value>Inbox background updating must be enabled to enable this feature.</value>
+    <value>Inkorgsbakgrund uppdatering måste vara aktiverad för att aktivera den här funktionen.</value>
   </data>
   <data name="NeverCombo.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>Aldrig</value>
   </data>
   <data name="NNewCB.Content" xml:space="preserve">
-    <value>New</value>
+    <value>Nya</value>
   </data>
   <data name="NSFWB.Text" xml:space="preserve">
-    <value>NSFW blocking mode</value>
+    <value>Blockera NSFW läge</value>
   </data>
   <data name="PinToStart.Content" xml:space="preserve">
-    <value>Pin to start</value>
+    <value>Fäst på start</value>
   </data>
   <data name="PostsCB.Content" xml:space="preserve">
-    <value>Posts</value>
+    <value>Poster</value>
   </data>
   <data name="PreloadComments.Text" xml:space="preserve">
-    <value>Preload comments</value>
+    <value>Förladda kommentar</value>
   </data>
   <data name="PreloadPost.Text" xml:space="preserve">
-    <value>Preload future post content</value>
+    <value>Förladda framtida posts innehåll</value>
   </data>
   <data name="RateUnder.Text" xml:space="preserve">
-    <value>Rate and review at Windows Store</value>
+    <value>Betygsätt och recensera i Windows Butiken</value>
   </data>
   <data name="RelevanceCB.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>Relevans</value>
   </data>
   <data name="ResetReview.Content" xml:space="preserve">
-    <value>Reset rate and review counter</value>
+    <value>Nollställ betyg och recensioner räknare</value>
   </data>
   <data name="SearchThisSubReddit" xml:space="preserve">
-    <value>Search this subreddit</value>
+    <value>Sök i denna subreddit</value>
   </data>
   <data name="SelfFilter.PlaceholderText" xml:space="preserve">
-    <value>Selftext Filter</value>
+    <value>Egentext Filter</value>
   </data>
   <data name="SelfPostCB.Content" xml:space="preserve">
-    <value>Is a Self Post?</value>
+    <value>Är en egen post?</value>
   </data>
   <data name="SelfPostNCB.Content" xml:space="preserve">
-    <value>No</value>
+    <value>Nej</value>
   </data>
   <data name="SelfPostYCB.Content" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
   </data>
   <data name="SendCT.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>Skicka</value>
   </data>
   <data name="ShowUITB.Text" xml:space="preserve">
-    <value>Show UI help tips</value>
+    <value>Visa UI hjälp tips</value>
   </data>
   <data name="SubFilter.PlaceholderText" xml:space="preserve">
     <value>Subreddit Filter</value>
   </data>
   <data name="SubmitNewPost.Content" xml:space="preserve">
-    <value>Submit new post</value>
+    <value>Lägg till en ny post</value>
   </data>
   <data name="SubredditsCB.Content" xml:space="preserve">
     <value>Subreddits</value>
   </data>
   <data name="SubscribeCT.Content" xml:space="preserve">
-    <value>Subscribe</value>
+    <value>Prenumerera</value>
   </data>
   <data name="SVS1.Text" xml:space="preserve">
-    <value>Subreddit view settings</value>
+    <value>Subreddit visnings-inställningar</value>
   </data>
   <data name="SVS2.Text" xml:space="preserve">
-    <value>Subreddit to view when the app opens</value>
+    <value>Subreddit att visa när appen öppnas</value>
   </data>
   <data name="SystemState.Text" xml:space="preserve">
-    <value>System State:</value>
+    <value>System Tillstånd:</value>
   </data>
   <data name="TTopCB.Content" xml:space="preserve">
     <value>Topp</value>
   </data>
   <data name="UpdatingLockTB.Text" xml:space="preserve">
-    <value>Wallpaper updating</value>
+    <value>Bakgrundsbild uppdateras</value>
   </data>
   <data name="UsersCB.Content" xml:space="preserve">
     <value>Användare</value>
@@ -707,7 +707,7 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>Kontroversiellt</value>
   </data>
   <data name="HotCode.Text" xml:space="preserve">
-    <value>Hot</value>
+    <value>Hett</value>
   </data>
   <data name="NewCode.Text" xml:space="preserve">
     <value>Ny</value>
@@ -746,16 +746,16 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>Kommentarer</value>
   </data>
   <data name="DefaultcountTB.Text" xml:space="preserve">
-    <value>Default count</value>
+    <value>Standard räkning</value>
   </data>
   <data name="DefaultSortsTB.Text" xml:space="preserve">
-    <value>Default sort</value>
+    <value>Standard sortering</value>
   </data>
   <data name="DefaultsortTB.Text" xml:space="preserve">
-    <value>Default sort</value>
+    <value>Standard sortering</value>
   </data>
   <data name="DefaulttimesortTB.Text" xml:space="preserve">
-    <value>Default time sort</value>
+    <value>Standard tid sortering</value>
   </data>
   <data name="DeniedCode.Text" xml:space="preserve">
     <value>Nekas</value>
@@ -764,40 +764,40 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>Flip View</value>
   </data>
   <data name="InboxbackgroundupdatingCode.Text" xml:space="preserve">
-    <value>Inbox background updating</value>
+    <value>Bakgrundsbild för inkorg uppdateras</value>
   </data>
   <data name="LastUpdateCode.Text" xml:space="preserve">
-    <value>Last update</value>
+    <value>Senast uppdaterad</value>
   </data>
   <data name="LockscreendesktopwallpaperupdatingCode.Text" xml:space="preserve">
-    <value>Lock screen &amp; desktop wallpaper updating</value>
+    <value>Låsskärm &amp; skrivbords bakgrund uppdateras</value>
   </data>
   <data name="NeverCode.Text" xml:space="preserve">
-    <value>Never</value>
+    <value>Aldrig</value>
   </data>
   <data name="PrivacyPolicyCode.Text" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>Integritetspolicy</value>
   </data>
   <data name="ReddunTileInboxTB.Text" xml:space="preserve">
-    <value>Add a Reddunt tile and sync my message inbox</value>
+    <value>Lägg till en Reddunt tile och synka min inkorg</value>
   </data>
   <data name="ShowEachMessageCBI.Content" xml:space="preserve">
-    <value>Show each message</value>
+    <value>Visa varje meddelande</value>
   </data>
   <data name="ShowOneTotalUnreadCBI.Content" xml:space="preserve">
-    <value>Show one total unread count</value>
+    <value>Visa en totalt oläst..?count?</value>
   </data>
   <data name="SystemStateCode.Text" xml:space="preserve">
-    <value>System State</value>
+    <value>System Tillstånd</value>
   </data>
   <data name="TermsandConditionsCode.Text" xml:space="preserve">
-    <value>Terms and Conditions</value>
+    <value>Termer och Villkor</value>
   </data>
   <data name="AddButton.Label" xml:space="preserve">
-    <value>Add</value>
+    <value>Lägg till</value>
   </data>
   <data name="RefreshButton.Label" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Uppdatera</value>
   </data>
   <data name="AccountCode.Text" xml:space="preserve">
     <value>konto</value>
@@ -809,25 +809,25 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>Ändra</value>
   </data>
   <data name="HasGoldCode.MinorAccentText" xml:space="preserve">
-    <value>Has Gold</value>
+    <value>Har Guld</value>
   </data>
   <data name="HidePost" xml:space="preserve">
-    <value>Hide post</value>
+    <value>Göm post</value>
   </data>
   <data name="MarkAsReadCode.Text" xml:space="preserve">
-    <value>mark as read</value>
+    <value>markera som läst</value>
   </data>
   <data name="MarkAsUnreadCode.Text" xml:space="preserve">
-    <value>mark as unread</value>
+    <value>markera som icke läst</value>
   </data>
   <data name="PivotComments.Header" xml:space="preserve">
-    <value>COMMENTS</value>
+    <value>KOMMENTARER</value>
   </data>
   <data name="PivotSubmitted.Header" xml:space="preserve">
-    <value>SUBMITTED</value>
+    <value>INSKICKAD</value>
   </data>
   <data name="PostsResultsCode" xml:space="preserve">
-    <value>Posts Results</value>
+    <value>Post Resultat</value>
   </data>
   <data name="replyBTN.ButtonText" xml:space="preserve">
     <value>svara</value>
@@ -848,34 +848,34 @@ The main focus is on optimization as well great Windows 10 focused features!</va
     <value>Logga Ut</value>
   </data>
   <data name="SubredditResultsCode" xml:space="preserve">
-    <value>Subreddit Results</value>
+    <value>Subreddit Resultat</value>
   </data>
   <data name="UnhidePost" xml:space="preserve">
-    <value>Unhide post</value>
+    <value>Visa post</value>
   </data>
   <data name="UnsaveComment" xml:space="preserve">
-    <value>Unsave comment</value>
+    <value>Ta bort sparad kommentar</value>
   </data>
   <data name="UnsavePost" xml:space="preserve">
-    <value>Unsave post</value>
+    <value>Ta bort sparad post</value>
   </data>
   <data name="UserResultsCode" xml:space="preserve">
-    <value>User Results</value>
+    <value>Användare Resultat</value>
   </data>
   <data name="ViewInContext.ButtonText" xml:space="preserve">
-    <value>view comment in context</value>
+    <value>se kommentaren i sitt sammanhang</value>
   </data>
   <data name="SendCode.Content" xml:space="preserve">
     <value>Skicka</value>
   </data>
   <data name="UpdateCode.Content" xml:space="preserve">
-    <value>Uppdater</value>
+    <value>Uppdatera</value>
   </data>
   <data name="SortTBS.Text" xml:space="preserve">
     <value>Sortera:</value>
   </data>
   <data name="FeedbackHubLabel.Label" xml:space="preserve">
-    <value>Feedback Hub</value>
+    <value>Feedback Hubb</value>
   </data>
   <data name="EnterFullScreenModeCode.Label" xml:space="preserve">
     <value>Starta Fullskärms Läge</value>
